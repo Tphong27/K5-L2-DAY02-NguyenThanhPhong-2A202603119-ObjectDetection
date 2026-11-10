@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Thanh phong
 - MSSV: 2A202603119
-- Email: phongtrieu2048@gmail.com. (26ai.phongnt5@vinuni.edu.vn)
+- Email: 26ai.phongnt5@vinuni.edu.vn
 - Lớp: 2A-LAB-E402
 - Link repo bài làm: https://github.com/Tphong27/K5-L2-DAY02-NguyenThanhPhong-2A202603119-ObjectDetection.git
 - Link Colab đã chạy: https://colab.research.google.com/github/Tphong27/K5-L2-DAY02-NguyenThanhPhong-2A202603119-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb#scrollTo=ol8zYYzz40Ta
