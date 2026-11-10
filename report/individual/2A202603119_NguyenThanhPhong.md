@@ -1,15 +1,13 @@
 # Báo cáo cá nhân — Ngày 2 Object Detection
 
-Đổi tên file theo `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md`. Điền kết quả thật, xóa dòng hướng dẫn khi nộp. Xem [quy định nộp](../../SUBMISSION.md).
-
 ## 1. Thông tin học viên
 
 - Họ tên: Nguyễn Thanh phong
 - MSSV: 2A202603119
-- Email:
+- Email: phongtrieu2048@gmail.com. (26ai.phongnt5@vinuni.edu.vn)
 - Lớp: 2A-LAB-E402
 - Link repo bài làm: https://github.com/Tphong27/K5-L2-DAY02-NguyenThanhPhong-2A202603119-ObjectDetection.git
-- Link Colab đã chạy:
+- Link Colab đã chạy: https://colab.research.google.com/github/Tphong27/K5-L2-DAY02-NguyenThanhPhong-2A202603119-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb#scrollTo=ol8zYYzz40Ta
 
 ## 2. Schema và mini guideline
 
@@ -44,8 +42,8 @@ Cần giảng viên làm rõ: ranh giới car/van với minivan (ca `drive_024`,
 | mean_iou_of_matches |                                                                                                 0.8476 |                |
 | passed              | False trong script (ngưỡng cứng F1 ≥ 0.8); đạt theo ngưỡng Lab Coach điều chỉnh (F1 ≥ 0.5, IoU ≥ 0.70) |                |
 
-- Dẫn tới `outputs/annotation_evaluation.json` trong repo.
-- Không rework
+- Kết quả chi tiết: [outputs/annotation_evaluation.json](../../outputs/annotation_evaluation.json).
+- Không rework.
 
 ## 5. Kết quả YOLO
 
